@@ -1,7 +1,7 @@
 # Hi, I'm Delisha 
 
 🎯 Data Analyst | Python • SQL • Power BI • Excel  
-🏢 Ex-Capgemini | Network Engineer → Data Analyst  
+🏢 Ex-Capgemini | Network Analyst, Data Analyst  
 📊 Turning data into actionable business insights
 
 ## Skills
@@ -20,4 +20,3 @@
 - Data Modeling
 - Predictive Analytics
 
-📫 Connect with me on LinkedIn
